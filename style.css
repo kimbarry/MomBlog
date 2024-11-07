@@ -1,0 +1,23 @@
+body {
+    background-color: rgb(31, 33, 192); /* Change to your desired color */
+}
+
+header {
+    background-color: rgb(137, 197, 245);
+    outline: 1px solid darkgray;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+
+
+    
+
+}
+
+.content {
+    outline: 2px solid slategray;
+    width: 50%; 
+    margin: 0 auto;        
+        
+  
+}
